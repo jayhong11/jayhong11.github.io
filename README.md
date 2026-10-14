@@ -21,7 +21,7 @@
 | | |
 |:---:|---|
 | **在线阅读** | **[👉 点击这里，打开即读](https://jayhong11.github.io/)** |
-| **下载** | [PDF](book.pdf) · [EPUB](book.epub) · [离线单文件（HTML）](index.html) |
+| **下载** | [PDF](https://github.com/jayhong11/jayhong11.github.io/raw/main/book.pdf) · [EPUB](https://github.com/jayhong11/jayhong11.github.io/raw/main/book.epub) · [离线单文件（HTML）](https://github.com/jayhong11/jayhong11.github.io/raw/main/index.html) |
 | **自查** | [个人条件反向匹配（交互工具）](https://jayhong11.github.io/#ch12)：回答一组问题，自动算出适合你优先研究的赚钱类型 |
 | **核心章节** | [赚钱模式八层总地图](https://jayhong11.github.io/#ch1) · [具体办法 40 式](https://jayhong11.github.io/#ch3) · [适配人群与门槛](https://jayhong11.github.io/#ch8) · [风险与合规清单](https://jayhong11.github.io/#ch9) · [项目验证与决策表](https://jayhong11.github.io/#ch10) |
 | **交流** | QQ 群 **1162899652** |
